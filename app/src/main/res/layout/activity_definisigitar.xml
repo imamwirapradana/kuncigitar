@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#9cf906"
+
+        tools:context=".DefinisigitarActivity">
+
+    <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_marginTop="15dp"
+                android:text="Alat musik gitar sangat populer di kalangan kaum muda sekarang. Alat musik ini dapat menghasilkan berbagai musik populer yang tentunya sudah tidak asing di telinga kita. Semua genre musik selalu menggunakan alat musik ini untuk menambah keindahannya, mulai dari musik dangdung, pop, jezz, rock, indie, metal, dan yang lainnya tidak pernah lepas dari pengaruh gitar.
+    Selain itu, gitar juga dapat memberi kesan keren bagi yang memegangnya (tentu juga memainkannya). Lihat musisi yang memegang gitar ketika berada di sebuah konser, ia akan terlihat lebih keren dengan memainkan alat musik ini. Tidak hanya musisi, namun orang biasa yang dapat memainkan alat musik ini juga terlihat keren. Apalagi ketika sedang nongkrong bersama teman, kita dapat menghangatkan suasana dengan bernyanyi diiringi suara musik dari gitar.
+    Apa kamu ingin belajar gitar? Kamu bisa belajar sendiri menggunakan alat musik ini. Kamu tidak perlu sekolah atau les untuk bisa memainkannya. Untuk yang ingin belajar, kami akan memberikan beberapa paparan terkait cara bermain gitar, khususnya untuk pemula.
+
+    Umumnya gitar biasanya memiliki 6 senar, dimulai dari senar paling bawah yang paling kecil, hingga paling atas yang paling besar. 2 jenis gitar yang paling sering digunakan, yaitu gitar akustik dan gitar elektrik. Pada dasarnya kedua jenis gitar tersebut memiliki nada yang mirip pada setiap senarnya. Yang membedakan keduanya, yaitu pada tuning nya. Berikut sinar gitar yang menghasilkan nada,
+    •	Senar 1 (paling bawah) menghasilkan nada E’ → 1 : E’
+    •	Senar 2 (atasnya senar 1) menghasilkan nada B → 2 : B
+    •	Senar 3 (atasnya senar 2) menghasilkan nada G → 3 : G
+    •	Senar 4 (atasnya senar 3) menghasilkan nada D → 4 : D
+    •	Senar 5 (atasnya senar 4) menghasilkan nada A → 5 : A
+    •	Senar 6 (paling atas) menghasilkan nada E → 6 : E
+    Kunci dasar pada gitar dibagi menjadi 2, yaitu kunci dasar atau biasa dan kunci dasar gitar minor. Kunci utama yang paling sering digunakan adalah C mayor, G mayor, A mayor, E mayor, dan D mayor. Tiap kunci memiliki penempatan jari pada senar yang berbeda.
+    "
+                android:layout_height="wrap_content"
+        />
+    </ScrollView>
+
+</LinearLayout>

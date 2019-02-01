@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".BermaingitarActivity">
+
+    <LinearLayout
+            android:background="#9cf906"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+    <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        <LinearLayout
+                android:layout_marginTop="23dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:orientation="vertical">
+            <TextView
+                    android:background="#ffffff"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="1). Punya gitar sendiri :"/>
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Nah buat kamu yang ingin bisa dalam bermain gitar pastinya kamu harus mempunyai gitar sendiri karena dengan mempunyai gitar sendiri bisa memproses dalam pembelajaran anda, dan tidak akan terganggu. jadi usahakan yang ingin belajar gitar wajib mempunyai gitar sendiri."/>
+            <TextView
+                    android:background="#ffffff"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="2). Senam jari :"/>
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Setelah kamu mempunyai gitar sendiri, setelah itu kamu bisa melanjutkan dengan senam jari. nah senam jari adalah salah satu untuk melatih dan untuk membiasakan jari – jari anda pada senar gitar.
+Terkadang ketika seseorang yang masih baru dalam belajar bermain gitar, jari-jari mereka akan mengembung dan pastinya akan terasa sakit, namun salah satu dari hal ini sudah terbiasa terjadi pada setiap musisi dalam bermain gitar atau gitaris."/>
+            <TextView
+                    android:background="#ffffff"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="3). Belajar kunci gitar :"/>
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Nah apabila kamu sudah melemaskan jari-jari kamu, maka lanjutkan dengan belajar kunci gitar, dan saya sarankan ketika belejar kunci dasar pada gitar yaitu Mayor dan Minor, usahakan jangan belajar kunci kress # dulu karena ini bisa terjadi untuk menghambat perkembangan diri Anda sendiri."/>
+            <TextView
+                    android:background="#ffffff"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="4). Belajar lagu :"/>
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Apabila kamu sudah selesai belajar kunci-kunci dasar pada gitar, setelah itu bisa kamu lanjutkan dengan belajar 1 lagu yang paling anda suka dengan nada – nada dasar yaitu Mayor dan Minor.
+Karena dengan mencoba untuk belajar 1 lagu, Anda bisa semangat untuk bertambah disaat anda sudah bisa memainkan 1 lagu kesukaan anda."/>
+            <TextView
+                    android:background="#ffffff"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="5). Sering ngumpul"/>
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Nah apabila kamu sering mengikuti perkumpulan yang mahir dalam bermain gitar, suatu saat kamu akan terasa bisa memainkan gitar dalam jangka waktu dekat. Dan bisa membawa arus ketika bermain gitar.
+Nah ketika memainkan gitar orang yang pintar bermain gitar : maksudnya, apabila ada salah satu dari teman anda yang pintar bermain gitar maka secara tidak langsung yang kita bahas tentunya masalah gitar, nah disana anda akan dapat menambah pengalaman kamu terkait tentang bermain gitar, bahkan bisa juga kamu akan mendapatkan informasi tambahan tentang cara bermain gitar."/>
+            <TextView
+                    android:background="#ffffff"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="6). Semangat :"/>
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Nah dari semua yang sudah kami bahas di atas secara keseluruhan, salah satu dari kunci keberhasilan adalah semangat pantang menyerah dalam bermain gitar, karena dengan begitu proses pembelajaran anda tidak akan terhambat atau macet ditengah jalan."/>
+        </LinearLayout>
+    </ScrollView>
+    </LinearLayout>
+
+</LinearLayout>
